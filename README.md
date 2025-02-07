@@ -1,0 +1,1 @@
+This repository contains examples of a common COBOL error involving the use of the STOP RUN statement in loops, and its corrected version. The error can lead to infinite loops, resulting in program failure. The solution demonstrates how to avoid this error by ensuring appropriate loop termination conditions.
